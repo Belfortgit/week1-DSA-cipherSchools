@@ -18,5 +18,8 @@ class Lecture4
 
         int i = c;
         System.out.println("i = "+i);
+
+        float f = (float) 6.45;
+        System.out.println("f = "+f);
     }
 }
