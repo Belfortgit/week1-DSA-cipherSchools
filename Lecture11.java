@@ -14,7 +14,7 @@ final class B extends A  // final classes can't be inherited
 {
     public void funcB()
     {
-        System.out.println("Inside function B");
+        System.out.println("Inside function B"); // Final methods can't be overridden
     }
 }
 
